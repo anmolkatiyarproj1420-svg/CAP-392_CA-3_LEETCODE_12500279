@@ -43,4 +43,13 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/1603-design-parking-system) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
