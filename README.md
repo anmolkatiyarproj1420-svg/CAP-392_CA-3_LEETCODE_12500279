@@ -7,6 +7,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0016-3sum-closest) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
