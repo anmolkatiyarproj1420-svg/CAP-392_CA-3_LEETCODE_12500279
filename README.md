@@ -7,6 +7,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -17,6 +18,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -52,4 +54,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/1603-design-parking-system) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
