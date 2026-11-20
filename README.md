@@ -7,6 +7,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@ Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0412-fizz-buzz) |
 ## Linked List
@@ -75,4 +77,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
