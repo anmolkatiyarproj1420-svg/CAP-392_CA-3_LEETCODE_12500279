@@ -28,6 +28,7 @@ Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0412-fizz-buzz) |
@@ -42,10 +43,12 @@ Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
