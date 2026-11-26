@@ -56,6 +56,7 @@ Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0412-fizz-buzz) |
 ## Simulation
