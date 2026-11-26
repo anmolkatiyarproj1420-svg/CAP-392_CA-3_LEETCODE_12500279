@@ -12,6 +12,7 @@ Leetcode Solutions
 | [0056-merge-intervals](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -86,4 +87,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
