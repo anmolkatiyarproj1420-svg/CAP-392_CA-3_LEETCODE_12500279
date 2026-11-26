@@ -48,6 +48,7 @@ Leetcode Solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0217-contains-duplicate) |
+| [2349-design-a-number-container-system](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/2349-design-a-number-container-system) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/1603-design-parking-system) |
+| [2349-design-a-number-container-system](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/2349-design-a-number-container-system) |
 ## Counting
 |  |
 | ------- |
@@ -91,4 +93,12 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
