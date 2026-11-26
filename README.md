@@ -58,10 +58,12 @@ Leetcode Solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/1603-design-parking-system) |
 ## Design
@@ -114,4 +116,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anmolkatiyarproj1420-svg/CAP-392_CA-3_LEETCODE_12500279/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
